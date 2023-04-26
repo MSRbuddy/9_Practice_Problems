@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\bin\Debug\net6.0\PurchaseListProgram.exe
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\bin\Debug\net6.0\PurchaseListProgram.deps.json
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\bin\Debug\net6.0\PurchaseListProgram.runtimeconfig.json
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\bin\Debug\net6.0\PurchaseListProgram.dll
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\bin\Debug\net6.0\PurchaseListProgram.pdb
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\obj\Debug\net6.0\PurchaseListProgram.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\obj\Debug\net6.0\PurchaseListProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\obj\Debug\net6.0\PurchaseListProgram.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\obj\Debug\net6.0\PurchaseListProgram.AssemblyInfo.cs
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\obj\Debug\net6.0\PurchaseListProgram.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\obj\Debug\net6.0\PurchaseListProgram.dll
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\obj\Debug\net6.0\refint\PurchaseListProgram.dll
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\obj\Debug\net6.0\PurchaseListProgram.pdb
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\obj\Debug\net6.0\PurchaseListProgram.genruntimeconfig.cache
+C:\Users\USER\source\BL\9-PracticeProblems\PurchaseListProgram\PurchaseListProgram\obj\Debug\net6.0\ref\PurchaseListProgram.dll
