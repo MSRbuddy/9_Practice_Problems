@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\bin\Debug\net6.0\SwapCompetition.exe
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\bin\Debug\net6.0\SwapCompetition.deps.json
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\bin\Debug\net6.0\SwapCompetition.runtimeconfig.json
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\bin\Debug\net6.0\SwapCompetition.dll
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\bin\Debug\net6.0\SwapCompetition.pdb
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\obj\Debug\net6.0\SwapCompetition.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\obj\Debug\net6.0\SwapCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\obj\Debug\net6.0\SwapCompetition.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\obj\Debug\net6.0\SwapCompetition.AssemblyInfo.cs
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\obj\Debug\net6.0\SwapCompetition.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\obj\Debug\net6.0\SwapCompetition.dll
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\obj\Debug\net6.0\refint\SwapCompetition.dll
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\obj\Debug\net6.0\SwapCompetition.pdb
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\obj\Debug\net6.0\SwapCompetition.genruntimeconfig.cache
+C:\Users\USER\source\BL\9-PracticeProblems\SwapCompetition\SwapCompetition\obj\Debug\net6.0\ref\SwapCompetition.dll
